@@ -1,0 +1,1 @@
+# automated-photo-host-aws
